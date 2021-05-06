@@ -1,0 +1,10 @@
+- Routing related components should reside in the pages folder
+- Other React components reside in their own folders 
+- Dynamic routes with single parameter
+  - code example: #TA01
+- Catch-all dynamic routes
+  - code example: #TA02 
+- Access query parameters
+  - code example: #TA03
+- Navigation Bar
+  - code example: #TA04
